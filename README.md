@@ -81,9 +81,9 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ##  Contact
 
-### Swatantra Yadav
-### Email: swatantra@example.com
-### LinkedIn: Swatantra (MaVeRicK) Yadav
+### Author: Swatantra
+### Email: maverickswatantra@gmail.com
+
 
 
 
